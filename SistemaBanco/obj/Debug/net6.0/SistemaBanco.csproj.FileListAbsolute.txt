@@ -1,0 +1,15 @@
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\bin\Debug\net6.0\SistemaBanco.exe
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\bin\Debug\net6.0\SistemaBanco.deps.json
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\bin\Debug\net6.0\SistemaBanco.runtimeconfig.json
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\bin\Debug\net6.0\SistemaBanco.dll
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\bin\Debug\net6.0\SistemaBanco.pdb
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.AssemblyInfoInputs.cache
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.AssemblyInfo.cs
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.dll
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\refint\SistemaBanco.dll
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.pdb
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\SistemaBanco.genruntimeconfig.cache
+C:\Users\joaol\source\repos\SistemaBanco\SistemaBanco\obj\Debug\net6.0\ref\SistemaBanco.dll
